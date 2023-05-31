@@ -6,5 +6,6 @@ public class Test1 {
 @Test
 public void testing() {
 	System.out.println("Hello testing");
+	System.out.println("Welcome to my Branch");
 }
 }
